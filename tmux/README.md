@@ -13,8 +13,8 @@
 
 ```prefix``` + <kbd>U</kbd>  --> Update
 
-```prefix``` + <kbd>alt + <kbd>U</kbd> --> Uninstall
+```prefix``` + <kbd>alt</kbd> + <kbd>U</kbd> --> Uninstall
 
-### Prefix = Default Key ```<kbd>Ctrl</kbd> + <kbd>b</kbd>```
+### Prefix = Default Key ==> ```<kbd>Ctrl</kbd> + <kbd>b</kbd>```
 
 <p><em> All Credits Go To Their Owner </em></p>
