@@ -5,7 +5,7 @@
 
 <h3>2. Then Download The Config File </h4>
 
-<h3>3. Place It in Your Home Dir as <em> .tmux.conf <em></h3>
+<h3>3. Place It in Your Home Dir as <em> .tmux.conf </em></h3>
 
 <h3>4. Then Open Tmux and install Plugins </h3>
 
@@ -15,6 +15,7 @@
 
 ```prefix``` + <kbd>alt</kbd> + <kbd>U</kbd> --> Uninstall
 
-### Prefix = Default Key ==> ```<kbd>Ctrl</kbd> + <kbd>b</kbd>```
+### Prefix = Default Key
+```<kbd>Ctrl</kbd> + <kbd>b</kbd>```
 
 <p><em> All Credits Go To Their Owner </em></p>
